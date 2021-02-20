@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\Exam\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\Exam\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\Exam\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\Exam\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\Exam\TheRace\bin\Debug\netcoreapp3.1\TheRace.exe
+C:\Users\Kiril\Advanced_CSharp\Exam\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\Kiril\Advanced_CSharp\Exam\TheRace\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\Exam\TheRace\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\Exam\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\Kiril\Advanced_CSharp\Exam\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\Kiril\Advanced_CSharp\Exam\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\Kiril\Advanced_CSharp\Exam\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\Kiril\Advanced_CSharp\Exam\TheRace\obj\Debug\netcoreapp3.1\TheRace.genruntimeconfig.cache
