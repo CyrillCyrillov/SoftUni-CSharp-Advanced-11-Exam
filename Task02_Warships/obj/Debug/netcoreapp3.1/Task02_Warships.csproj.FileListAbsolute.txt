@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\Exam\Task02_Warships\bin\Debug\netcoreapp3.1\Task02_Warships.exe
+C:\Users\Kiril\Advanced_CSharp\Exam\Task02_Warships\bin\Debug\netcoreapp3.1\Task02_Warships.deps.json
+C:\Users\Kiril\Advanced_CSharp\Exam\Task02_Warships\bin\Debug\netcoreapp3.1\Task02_Warships.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\Exam\Task02_Warships\bin\Debug\netcoreapp3.1\Task02_Warships.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\Exam\Task02_Warships\bin\Debug\netcoreapp3.1\Task02_Warships.dll
+C:\Users\Kiril\Advanced_CSharp\Exam\Task02_Warships\bin\Debug\netcoreapp3.1\Task02_Warships.pdb
+C:\Users\Kiril\Advanced_CSharp\Exam\Task02_Warships\obj\Debug\netcoreapp3.1\Task02_Warships.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\Exam\Task02_Warships\obj\Debug\netcoreapp3.1\Task02_Warships.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\Exam\Task02_Warships\obj\Debug\netcoreapp3.1\Task02_Warships.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\Exam\Task02_Warships\obj\Debug\netcoreapp3.1\Task02_Warships.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\Exam\Task02_Warships\obj\Debug\netcoreapp3.1\Task02_Warships.dll
+C:\Users\Kiril\Advanced_CSharp\Exam\Task02_Warships\obj\Debug\netcoreapp3.1\Task02_Warships.pdb
+C:\Users\Kiril\Advanced_CSharp\Exam\Task02_Warships\obj\Debug\netcoreapp3.1\Task02_Warships.genruntimeconfig.cache
